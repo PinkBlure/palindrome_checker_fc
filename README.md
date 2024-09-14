@@ -4,4 +4,4 @@ Este es un proyecto que he ido creado a medida que seguía el curso de Javascrip
 
 [Ir al curso de FreeCodeCamp][curso_javascript__freecodecamp]
 
-[curso_javascript__freecodecamp]: [https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[curso_javascript__freecodecamp]: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
